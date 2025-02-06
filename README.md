@@ -1,2 +1,1 @@
-#Hi,I'm Dhanashree
-#Robotics engineer and Data Scientist 
+#Hi,I'm Dhanashree. Robotics engineer and Data Scientist 
